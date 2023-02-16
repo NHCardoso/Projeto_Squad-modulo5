@@ -26,12 +26,20 @@ Fomos designados para criação de um Banco de dados/Crud para desenvolvimento  
 
 ## Instalação -
 
-[Mysql2] npm install --save mysql2 <br>
-[Dotenv] npm install dotenv --save <br>
+[Mysql2] npm install --save mysql2 
+[Dotenv] npm install dotenv --save 
 [Express] npm install express
 
 
-## Screenshots
+## Screenshots da apresentação
+<img>![Apresentação de Brainstorm Imobil](https://user-images.githubusercontent.com/100248057/219446429-b38494f7-ae2b-4d66-8cab-ba1975d144a8.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<h1>🧑🏻‍🤝‍🧑🏿 - Integrantes - 🧑🏼‍🤝‍🧑🏼 </h1>
+<section>
+<a href="https://github.com/VeGzx">Ruan " VeGZx " Natan</a> 🤍 <br>
+ <a href="https://github.com/NHCardoso">Nathália " NH " Cardoso</a>🧡 <br>
+ <a href="https://github.com/GabeOP"> Gabriel " GabeOP "  Oliveira</a> 💜<br>
+ <a href="https://github.com/MarcosPssiqueira"> Marcos " MarcosPssiqueira " Siqueira </a>💛  <br>
+ <a href="https://github.com/kauanecard"> Kaune " kauanecard " Cardoso </a> 💖 <br> 
+  </section>
 
