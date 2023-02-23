@@ -40,6 +40,6 @@ Fomos designados para criação de um Banco de dados/Crud para desenvolvimento  
  <a href="https://github.com/NHCardoso">Nathália " NH " Cardoso</a>🧡 <br>
  <a href="https://github.com/GabeOP"> Gabriel " GabeOP "  Oliveira</a> 💜<br>
  <a href="https://github.com/MarcosPssiqueira"> Marcos " MarcosPssiqueira " Siqueira </a>💛  <br>
- <a href="https://github.com/kauanecard"> KauAne " kauanecard " Cardoso </a> 💖 <br> 
+ <a href="https://github.com/kauanecard"> Kauane " kauanecard " Cardoso </a> 💖 <br> 
   </section>
 
